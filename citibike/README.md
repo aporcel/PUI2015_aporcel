@@ -8,6 +8,9 @@ In this Assignment we work in group together with:
 
 3. Alejandro Porcel
 
+##New Packages used
+
+Seaborne packages was used to visualize plots
 
 ##My contribution was:
 -Finding information about the moon illumination and time of sunset and sunrise
