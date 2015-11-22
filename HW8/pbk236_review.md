@@ -6,8 +6,6 @@
 
 [link to description](https://github.com/Casyfill/PUI2015_Philipp/blob/master/HW8/README.md)
 
-Notar que no esta en el Readme files
-
 The plot: Time series, venues created, 3-fold.
 Horisont Chart for Moscow
 
