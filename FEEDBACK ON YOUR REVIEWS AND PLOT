@@ -1,0 +1,49 @@
+very detailed and helpful reviews 10/10
+
+NOTES ON YOUR PLOT
+===================
+
+labels too small
+
+a compressed notation for the large numbers on the y axis would be a good choice to enhance readability
+
+the square ration results in an empty plot. remember tufte's rules: ink to space ratio. a compressed y axis would be better and actually help comparison
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+ramdaffe
+============
+
+
+the use if size nicely displays the third variable. 
+the size range for the datapoints is sensible: nice differential, not too large points not too small points
+
+axis labels and tick labels, and legend  are nicely readable
+
+
+"ln, person" is not clear what it means: just say "population (natural log - and are you sure it is not log10!!! in log 10 the orders of magnitude are displayed at regular intervals. usually we plot in log10: it is easy to relate 3 in log10 to 10^3=1000 but in ln?)"
+
+
+Sachinve
+============
+
+
+the plot is a simple stacked histogram. 
+
+labels are too small for readability, both tick labels and axis labels and title (which is also missing a space between word and parenthesis)
+
+colorblind compliant
+
+
+pbk236
+============
+
+the kind of plot that makes tufte happy. 
+the author should make the python implementation public in a nice python module!
+the color choices are not terribly good for color blind compliance.
+
+what is the number at the top left of each row? not describes in the readme.
+
